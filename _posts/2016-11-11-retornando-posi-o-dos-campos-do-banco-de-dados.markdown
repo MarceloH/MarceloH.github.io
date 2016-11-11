@@ -2,6 +2,8 @@
 published: true
 title: Retornando a posição dos campos do PostgreSQL
 layout: post
+tags: [postgresql, psql, sql]
+categories: [PostgreSQL]
 ---
 SELECT c.relname,
        a.attname,
