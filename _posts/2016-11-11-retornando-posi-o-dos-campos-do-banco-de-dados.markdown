@@ -1,6 +1,6 @@
 ---
 published: true
-title: Retornando posição dos campos do banco de dados
+title: Retornando a posição dos campos do PostgreSQL
 layout: post
 ---
 SELECT c.relname,
