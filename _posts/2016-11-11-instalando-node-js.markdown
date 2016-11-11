@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Instalando node.js
 layout: post
 tags: [node.js, install, instalação, ]
