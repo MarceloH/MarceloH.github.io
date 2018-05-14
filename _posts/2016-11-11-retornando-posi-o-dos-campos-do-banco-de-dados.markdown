@@ -5,7 +5,7 @@ layout: post
 tags: [postgresql, psql, sql]
 categories: [PostgreSQL]
 ---
-SELECT c.relname,
+> SELECT c.relname,
        a.attname,
        a.attnum
 FROM pg_attribute a

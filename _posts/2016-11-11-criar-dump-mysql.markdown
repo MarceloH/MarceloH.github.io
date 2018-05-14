@@ -7,15 +7,15 @@ categories: [Tutorial]
 ---
 Para fazer um backup com o mysql, você pode usar o seguinte comando:
 
-$mysqldump -h localhost -u armenio -pjujuba meuBanco > backup_meuBanco.sql
+>$mysqldump -h localhost -u armenio -pjujuba meuBanco > backup_meuBanco.sql
 
 Onde:
 
-Database: meuBanco
+>Database: meuBanco
 Host:     localhost
 Username: armenio
 Password: jujuba
 
 Para restaurar o backup, execute o comando:
 
-$mysql -h localhost -u armenio -pjujuba meuBanco < backup_meuBanco.sql
+>$mysql -h localhost -u armenio -pjujuba meuBanco < backup_meuBanco.sql
