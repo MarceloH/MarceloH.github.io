@@ -12,7 +12,8 @@ Executar: ./carte.sh <ip> <porta>
 Passo 3:  
 Conectar ao cluster localmente.  
   
-ACESSO WEB: http://10.251.27.57:8081/kettle/status/  
+ACESSO WEB: http://10.251.27.57:8081/kettle/status/ 
+ 
   
 attnum = Número da posição
 attname = Nome do campo
